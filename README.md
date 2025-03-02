@@ -15,7 +15,7 @@
 
 # Overview
 
-Salut je m'ennué donc j'ai decider de recrée le jeux Stacks un jeux 3D ou le but et d'empiler des brique sur d'autre je sais que des multitude de version de ce jeux existe mais j'en est pas vue en C++ qui sont utilise pour train des IA j'adapterais mon code a l'avenir pour vois permetre de pouvoir entrainer un agent dessus
+Salut, je m'ennuyais donc j'ai décidé de recréer le jeu Stacks, un jeu 3D où le but est d'empiler des briques sur d'autres. Je sais qu'une multitude de versions de ce jeu existent, mais je n'en ai pas vu en C++ qui soient utilisées pour entraîner des IA. J'adapterai mon code à l'avenir pour vous permettre d'entraîner un agent dessus.
 
 ![Stacks](https://github.com/4kaaraa/Stacks2D/blob/main/image.png)
 
